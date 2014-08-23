@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
  welcome to git
 added second line
 added third line
@@ -7,3 +8,7 @@ added third line
 =======
 hai welcome to git
 >>>>>>> parent of aa36df2...  added second line
+=======
+hai welcome to git
+added second line
+>>>>>>> parent of ee527e8... jaffa added
